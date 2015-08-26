@@ -1,0 +1,11 @@
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\bin\Debug\PalEdit.exe.config
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\bin\Debug\PalEdit.exe
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\bin\Debug\PalEdit.pdb
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.Form1.resources
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.Properties.Resources.resources
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.csproj.GenerateResource.Cache
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.exe
+c:\users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.pdb
+C:\Users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.AboutBox1.resources
+C:\Users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.bookmarksFromIni.resources
+C:\Users\gal\documents\visual studio 2013\Projects\PalEdit\PalEdit\obj\Debug\PalEdit.instructions.resources
